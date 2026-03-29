@@ -49,9 +49,6 @@
 
 ---
 
-## 🤝 Open to
+## 📩 Contact 
 
-- 副業・業務委託（週1〜2日・フルリモート歓迎）
-- SRE / IaC / Datadog導入支援 / AI基盤インフラ構築
-
-📩 Contact → [proyogram@gmail.com]
+[proyogram@gmail.com]
